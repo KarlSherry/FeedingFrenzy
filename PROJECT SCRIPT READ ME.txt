@@ -1,0 +1,23 @@
+Game Programming Semester 2 Assignment
+
+Student: Karl Sherry
+Student Number: C09700081
+
+Project Working Title: Feeding Frenzy
+
+Project Description:
+- I will attempt to replicate an ocean sardine run. This happens when a large group of sardines group together in a ball 
+and are continuously attacked by predators (dolphins, seals, sharks, whales, tuna, birds, etc).
+- My scene will take place close to a volcanic island, rich in nutrients and "plankton".
+
+Approximation of Project Structure:
+- I will start off by attaching a camera to a bird. The bird will fly around the island for a few seconds before flying off towards the frenzy.
+- On approach the bird will meet a group of other birds and join in on the formation.
+- After a few seconds the bird will dive into the shoal of fish below.
+- Camera will swap onto one of the flocking fish bringing you into the mayhem in the water.
+- Sharks, dolphins and bigger fish will come into screenshot in attempt to create a terrifying atmosphere.
+- Camera will move about in order to best capture the events.
+
+As it is underwater and close to shore, I will attempt to create an environment that looks somewhat like the ocean floor.
+
+I want the viewer to be able to imagine being one of the sardines and swimming for its life while there is danger all around it. 
