@@ -14,7 +14,7 @@ public class ForceController : MonoBehaviour {
 	void Start () {
 		target = Random.insideUnitSphere * 10;
 		target.x -= 220;
-		target.y = -10;
+		target.y -= 20;
 		target.z += 330;
 	}
 	
@@ -45,7 +45,7 @@ public class ForceController : MonoBehaviour {
 		if (distToTarget < 2) {
 			target = Random.insideUnitSphere * 10;
 			target.x -= 220;
-			target.y = -10;
+			target.y -= 20;
 			target.z += 330;
 		}
 
