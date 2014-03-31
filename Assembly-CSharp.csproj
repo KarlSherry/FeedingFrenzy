@@ -47,7 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\ForceController.cs" />
+     <Compile Include="Assets\SeaGullBehaviour.cs" />
      <Compile Include="Assets\SteeringBehaviours.cs" />
+     <Compile Include="Assets\TroutSpawner.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
